@@ -1,2 +1,1 @@
-let unOrderedList = document.querySelector("ul");
-unOrderedList.lastElementChild.innerHTML = "Mark"
+document.querySelector("li a").style.color = `green`;
